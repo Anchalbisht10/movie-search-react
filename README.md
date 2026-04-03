@@ -10,7 +10,7 @@ A movie search application that allows users to search for movies and view detai
 - HTML
 - CSS
 
-## Features
+## Features 
 - Search movies by name
 - Display movie posters and details
 - Dynamic API-based results
