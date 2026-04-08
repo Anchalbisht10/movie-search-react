@@ -21,3 +21,8 @@ A movie search application that allows users to search for movies and view detai
 2. Add your API key in the environment file
 3. Run `npm install`
 4. Run `npm start`
+
+
+## Live Demo
+Check out the live project here:
+[Movie-box](https://movie-search-react-brown.vercel.app)
