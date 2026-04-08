@@ -26,3 +26,5 @@ A movie search application that allows users to search for movies and view detai
 ## Live Demo
 Check out the live project here:
 [Movie-box](https://movie-search-react-brown.vercel.app)
+
+Built by Anchal Bisht 
